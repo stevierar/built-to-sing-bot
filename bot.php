@@ -1,5 +1,10 @@
 <?php
 	
+	/*
+	 *	This is a little bot I've built for reddit. See /r/built_to_sing to watch it
+	 *  in action. This bots existance here is merely my fiddling with git and github.
+	 */
+	
 	file_put_contents("status_threads", "1");
 
 	set_time_limit(0);
